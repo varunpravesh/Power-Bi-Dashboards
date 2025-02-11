@@ -11,6 +11,8 @@
 ## Executive Summary
 WorkSpace Essentials is an e-commerce business dealing in Office Supplies, Furniture, and Technology products. This provides a comprehensive overview of key metrics: Customers, Orders, Profit, and Sales of the business. The data spans multiple years (2019-2022) and includes breakdowns by market, country, and product category. The analysis reveals trends in customer acquisition, order volume, profitability, and sales performance across different regions and product categories.
 
+![](Image.png)
+
 - **Total Sales**: $12,644,315, with sales trends showing fluctuations from 2019 to 2022. The highest sales are observed in the United States, contributing significantly to the overall revenue.
 - **Total Profit**: $1,468,860, with the Technology category generating the highest profit ($563,994). The profit percentage of sales has remained stable, ranging between 10% and 13.5% from 2020 to 2022.
 - **Total Customers**: 17,415, with the United States leading in customer count (2,501). Customer acquisition trends show growth or decline in specific periods from 2020 to 2022.
