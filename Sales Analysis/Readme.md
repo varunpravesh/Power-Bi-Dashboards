@@ -1,14 +1,14 @@
 # WorkSpace Essentials Sales Analysis
 
 ## Table of Contents
-1. [Overall Summary](#overall-summary)
+1. [Executive Summary](#executive-summary)
 2. [Customers Analysis](#customers-analysis)
 3. [Orders Analysis](#orders-analysis)
 4. [Profit Analysis](#profit-analysis)
 5. [Sales Analysis](#sales-analysis)
 6. [In-Depth Sales Analysis](#in-depth-sales-analysis)
 
-## Overall Summary
+## Executive Summary
 WorkSpace Essentials is an e-commerce business dealing in Office Supplies, Furniture, and Technology products. This provides a comprehensive overview of key metrics: Customers, Orders, Profit, and Sales of the business. The data spans multiple years (2019-2022) and includes breakdowns by market, country, and product category. The analysis reveals trends in customer acquisition, order volume, profitability, and sales performance across different regions and product categories.
 
 - **Total Sales**: $12,644,315, with sales trends showing fluctuations from 2019 to 2022. The highest sales are observed in the United States, contributing significantly to the overall revenue.
