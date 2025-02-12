@@ -2,10 +2,10 @@
 
 ## Table of Contents
 1. [Executive Summary](#executive-summary)
-2. [Customers Analysis](#customers-analysis)
-3. [Orders Analysis](#orders-analysis)
-4. [Profit Analysis](#profit-analysis)
-5. [Sales Analysis](#sales-analysis)
+2. [Customers](#customers)
+3. [Orders](#orders)
+4. [Profit](#profit)
+5. [Sales](#sales)
 6. [In-Depth Sales Analysis](#in-depth-sales-analysis)
 
 ## Executive Summary
@@ -20,27 +20,27 @@ WorkSpace Essentials is an e-commerce business dealing in Office Supplies, Furni
 
 This summary highlights the importance of the United States market and the Technology category in driving sales and profitability. The stable profit percentage indicates consistent financial performance, with opportunities to optimize profitability in underperforming regions and categories.
 
-## Customers Analysis
+## Customers
 - **Total Customers**: 17,415
 - **Customers by Month**: The data shows customer acquisition trends from 2020 to 2022, indicating growth or decline in specific periods.
 - **Customers by Market**: The distribution across markets is relatively balanced, with the highest percentage in one market (25%) and the lowest in another (13%).
 - **Customers by Country**: The United States leads with 2,501 customers, followed by France (679), Mexico (668), Australia (660), and Germany (581).
 - **Customers by Product Category**: The customer base is distributed across Furniture, Office Supplies, and Technology categories.
 
-## Orders Analysis
+## Orders
 - **Total Orders**: 25,728
 - **Orders by Month**: The data indicates order volume trends from 2019 to 2022, showing fluctuations over the years.
 - **Orders by Market**: The United States accounts for 49% of orders, with significant contributions from France (1,473), Australia (1,419), Mexico (1,522), and Germany (1,018).
 - **Orders by Product Category**: Orders are distributed across Furniture, Office Supplies, and Technology, with potential insights into category popularity.
 
-## Profit Analysis
+## Profit
 - **Total Profit**: $1,468,860
 - **Profit by Market**: The profit distribution across markets shows varying contributions, with some markets performing better than others.
 - **Profit by Country**: The United States leads with $150,766.43, followed by China ($125,095.18), India ($111,597.27), and the United Kingdom ($109,119.79).
 - **Profit by Month**: Profit trends from 2019 to 2022 indicate periods of growth or decline.
 - **Profit by Product Category**: Technology generates the highest profit ($563,994), followed by Office Supplies ($536,607) and Furniture ($328,570).
 
-## Sales Analysis
+## Sales
 - **Total Sales**: $12,644,315
 - **Sales by Market**: The United States dominates with 52.9% of sales, followed by Australia, France, China, and Germany.
 - **Sales by Country**: The United States leads with significant sales, followed by Australia, France, China, and Germany.
