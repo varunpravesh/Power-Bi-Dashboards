@@ -8,7 +8,7 @@ An analysis of 782 jobs from 2019 to 2022 reveals total sales of £9.43 million,
 
 
 #### Data Model Overview
-- **TradingData** - This table holds the key information of all the tranasctions of the company for the year 2019 and 2020.  
+- **TradingData** - This table holds the key information of all the transactions of the company for the year 2019 and 2020.  
 - **ColumnDefinitions** - Short description for all the columns in the TradingData table.
 - **ExchangeRates** - Stores exchange rates for the currencies used in the company's transactions.
 
@@ -20,8 +20,7 @@ An analysis of 782 jobs from 2019 to 2022 reveals total sales of £9.43 million,
 - The company made a total profit of -£613.52K, indicating an overall loss. Mixed Plastics, HDPE, and LDPE were identified as the largest contributors to losses.
 - The profitability remained flat for most of 2019 but saw an increase from September to November 2019 before a sharp decline in December 2019, indicating a sudden financial downturn. This suggests seasonal demand variations or operational inefficiencies that need to be analyzed further.
 - The company is experiencing consistent losses every month, with profits ranging from -£2,800 to -£290,126.
-- There isn't a direct correlation between job count and profit—some months with higher jobs still resulted in higher losses. Dec.2019 had the highest loss -£290,126
-despite having the higest jobs (307 Jobs).
+- There isn't a direct correlation between job count and profit—some months with higher jobs still resulted in higher losses. December 2019 recorded the highest loss of £290,126, despite completing 307 jobs, the highest for any month.
 
 ### Hauling Costs
 ![](HaulingCosts.png)
