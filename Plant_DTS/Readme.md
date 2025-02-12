@@ -1,5 +1,12 @@
 # Plant Co. Sales Performance Analysis
 
+## Table of Contents
+1. [Executive Summary](#executive-summary)
+2. [Gross Profit](#gross-profit)
+3. [Quantity Sold](#quantity-sold)
+4. [Sales](#sales)
+5. [Recommendations](#recommendations)
+
 ## Executive Summary
 Plant Co. specializes in selling a variety of plant-based products, catering to a diverse global customer base. The company's revenue streams are driven by product sales across multiple regions, we analyze the key performance indicators including gross profit, quantity sold, and total sales to get detailed insights on the sales and profit trend of the company over the years. This report provides an indepth comparison of the Year-to-Date (YTD) performance against the Previous Year-to-Date (PYTD). It also offers insights into regional performance, product type contributions, and account profitability.
 
@@ -12,7 +19,7 @@ Performance Report
 
 Plant Co.'s performance report shows a decline across Gross Profit, Quantity, and Sales compared to the prior year. Gross Profit totals $12.0M, with YTD at $1.4M (down $353.55K from PYTD $1.8M). Quantity Sold is 1.24M units, with YTD at 148.47K (down 41.52K from PYTD 189.99K). Total Sales stand at $30.1M, with YTD at $3.6M (down $845.01K from PYTD $4.4M). Sweden, Thailand, and Poland are top-performing markets, while Indoor products contribute the most. Performance peaked in Q1, followed by a steady decline. Strategic focus on high-performing regions and product optimization is needed to recover lost growth.
 
-## Gross Profit Analysis
+## Gross Profit
 - Total Gross Profit stands at $12.0M.
 - YTD Gross Profit is $1.4M, reflecting a decline of $353.55K compared to PYTD $1.8M.
 - The waterfall chart shows a significant decline in Gross Profit over time, particularly in the latter months. January and February had minor gains, but from March onwards, there was a consistent decrease. The largest drop occurred in the last quarter, emphasizing the need for intervention.
@@ -26,7 +33,7 @@ Plant Co.'s performance report shows a decline across Gross Profit, Quantity, an
 - Product Focus: Indoor products generate the most revenue, but optimizing Landscape and Outdoor product sales could diversify income streams.
 - Account Profitability: A deep dive into accounts with low Gross Profit % could reveal pricing or cost inefficiencies to address.
 
-## Quanity Sold Analysis
+## Quantity Sold
 - The total quantity sold is 1.24M units, with the YTD quantity at 148.47K, showing a decline of 41.52K units compared to PYTD (189.99K units). This drop suggests a slowdown in sales volume, which could be attributed to lower demand, supply chain issues, or pricing strategies affecting sales.
 - Poland (2.57K units) and Sweden (2.31K units) are the leaders in sales quantity.
 - Indoor products remain the primary driver of sales, with a significant contribution. Landscape and Outdoor products also contribute but show a similar trend to Gross Profit, with peak sales in Q1 and a decline in later quarters.
@@ -38,7 +45,7 @@ Plant Co.'s performance report shows a decline across Gross Profit, Quantity, an
 - Profitability Optimization: Many high-volume products have low profit margins—adjusting pricing or reducing costs for these items could boost overall profitability.
 - Recovery in H2: Sales quantity showed an upward trend after June, meaning strategies implemented mid-year may have started to yield results.
 
-## Sales Analysis
+## Sales
 - Plant Co. recorded a total sales revenue of $30.1M, with a YTD sales figure of $3.6M, reflecting a drop of $845K compared to the previous YTD ($4.4M).
 - The monthly sales trend highlights strong performance in Q1 (January to April), peaking at $2.5M in April. However, May onwards shows a significant decline, stabilizing around $1M–$1.4M per month.
 - Indoor product sales continue to dominate, with landscape and outdoor products showing similar sales patterns but lower revenue contributions.
