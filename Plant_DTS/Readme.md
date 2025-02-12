@@ -10,10 +10,15 @@
 ## Executive Summary
 Plant Co. specializes in selling a variety of plant-based products, catering to a diverse global customer base. The company's revenue streams are driven by product sales across multiple regions, we analyze the key performance indicators including gross profit, quantity sold, and total sales to get detailed insights on the sales and profit trend of the company over the years. This report provides an indepth comparison of the Year-to-Date (YTD) performance against the Previous Year-to-Date (PYTD). It also offers insights into regional performance, product type contributions, and account profitability.
 
-Data Model
-![Data Model](DataModel.png)
+### Data Model Overview
+- **Fact_Sales** - This table holds sales transactions over multiple years. Sales_USD and COGS_USD are used to calculate the profit margins.
+- **Dim_Account** - Dimension table that stores customer account related information. It allows geographic analysis of sales using latitude and longitude.
+- **Dim_Product** - Each record in this table provides a detailed information on the product heirarchy.
+  
+![Data Model Overview](DataModel.png)
 
-Performance Report
+
+### Performance Report
 ![Performance Report](Image.png)
 
 
