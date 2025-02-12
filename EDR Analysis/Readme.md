@@ -1,7 +1,7 @@
 # EDR Sales and Cost Analysis
 
 ## Project Background
-EDR are a company who look to buy and help remove scrap and waste recyclables from clients and then sell these to other providers. For certain items they incur a cost and for others they are actually paid to take away the materials. Some materials are received by buyers who they pay to take the materials away. EDR work with clients around the globe and are therefore purchasing, selling and hauling in different currencies.
+EDR is a company who look to buy and help remove scrap and waste recyclables from clients and then sell these to other providers. For certain items they incur a cost and for others they are actually paid to take away the materials. Some materials are received by buyers who they pay to take the materials away. EDR work with clients around the globe and are therefore purchasing, selling and hauling in different currencies.
 
 ## Excutive Summary
 An analysis of 782 jobs from 2019 to 2022 reveals total sales of £9.43 million, with purchase costs of £11.63 million and hauling costs of £393,792, resulting in a net loss of £613,520. The company transported 16,400 units, averaging £503 per job and £24 per unit in hauling costs. Aluminium, HDPE, and PET contributed to 60% of total revenue, while Mixed Plastics, LDPE, and MRF Film were the most unprofitable materials. The average cost per job, including purchase and hauling, stood at £14,870, highlighting the need for cost optimization. To improve profitability, the company should focus on expanding high-margin materials, renegotiating supplier contracts, and optimizing logistics to reduce expenses.
@@ -17,7 +17,7 @@ An analysis of 782 jobs from 2019 to 2022 reveals total sales of £9.43 million,
 ## Insights Deep-Dive
 ### Profit Trends
 ![](ProfitTrends.png)
-- The company made a total profit of -£613.52K, indicating an overall loss. The report indicates Mixed Plastics, HDPE, and LDPE as major loss-making categories.
+- The company made a total profit of -£613.52K, indicating an overall loss. Mixed Plastics, HDPE, and LDPE were identified as the largest contributors to losses.
 - The profitability remained flat for most of 2019 but saw an increase from September to November 2019 before a sharp decline in December 2019, indicating a sudden financial downturn. This suggests seasonal demand variations or operational inefficiencies that need to be analyzed further.
 - The company is experiencing consistent losses every month, with profits ranging from -£2,800 to -£290,126.
 - There isn't a direct correlation between job count and profit—some months with higher jobs still resulted in higher losses. Dec.2019 had the highest loss -£290,126
