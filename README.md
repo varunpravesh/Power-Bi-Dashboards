@@ -20,23 +20,6 @@ Each dashboard provides insights using a combination of rich visualizations and 
 - **Custom Measures and KPIs**: Leverages DAX to create insightful measures and calculated columns.
 - **Aesthetically Designed Layouts**: Clean and professional designs for better user experience.
 
-## Dashboards
-
-### Example Dashboards:
-
-1. **Sales Performance Dashboard**
-   - Tracks revenue, profit margins, and sales trends.
-   - Key features include regional analysis, product category insights, and monthly sales breakdown.
-
-2. **Financial Metrics Dashboard**
-   - Visualizes expenses, income, and financial ratios.
-   - Includes budget vs actual comparisons and profitability analysis.
-
-3. **Customer Insights Dashboard**
-   - Focuses on customer demographics, purchasing patterns, and retention metrics.
-
-For more details about each dashboard, refer to the individual folder or documentation in the repository.
-
 ## Installation
 
 To use these dashboards locally:
