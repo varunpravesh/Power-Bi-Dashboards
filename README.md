@@ -2,18 +2,6 @@
 
 Welcome to my **Power BI Dashboards** repository! This repository showcases a collection of dynamic, interactive dashboards built using Power BI. These dashboards are designed to analyze and visualize data for various business and analytical purposes.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Dashboards](#dashboards)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [License](#license)
-
----
-
 ## Overview
 
 This repository contains a variety of Power BI dashboards that address different use cases such as:
